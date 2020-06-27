@@ -1,0 +1,52 @@
+body{
+  background-color: #f6f6f6;
+  background-image: url(https://5b0988e595225.cdn.sohucs.com/images/20190831/a5f7416863af4bf88345df35a5df46b8.jpeg);  
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+}
+
+.header-css{
+    font-size:1.5rem;
+    color: green;
+    padding: 0 0.5rem;
+}
+
+
+.comm-left{
+  background-color: #FFF;
+  padding:.3rem;
+  border-radius: .3rem;
+  border:1px solid #eee;
+}
+.comm-box{
+  background-color: #FFF;
+  margin-left: .5rem;
+  padding:.3rem;
+  border-radius: .3rem;
+  border:1px solid #eee;
+}
+.comm-main{
+  margin-top: .5rem;
+  opacity: 0.9;
+}
+
+.list-title{
+    font-size:1.2rem;
+    color: black;
+    padding: 0 0.5rem;
+}
+
+.list-context{
+    color:gray;
+    padding:.5rem;
+}
+.list-icon{
+    padding:.5rem 0;
+    color:#AAA;
+}
+.list-icon span{
+    display: inline-block;
+    padding: 0 10px;
+}
